@@ -60,7 +60,7 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 ## Bot commands to be set in botfather
 
 ```
-darpan - Start Mirroring
+mirror - Start Mirroring
 tar - Upload tar (zipped) file
 unzip - Extract files
 clone - copy folder to drive
