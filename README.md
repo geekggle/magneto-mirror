@@ -73,6 +73,7 @@ list - [query] searches files in G-Drive
 status - Get Mirror Status message
 stats - Bot Usage Stats
 help - Get Detailed Help
+authorize - To Authorize chats [owner only]
 log - Bot Log [owner only]
 ```
  
